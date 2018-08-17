@@ -1,0 +1,9 @@
+{
+  "name": "upstack",
+  "version": "1.0.0",
+  "description": "Hackable apps stack",
+  "main": "index.js",
+  "repository": "git@github.com/UpstackIO/upstack.git",
+  "author": "akterstack",
+  "license": "MIT"
+}
