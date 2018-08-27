@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "git@github.com/UpstackIO/upstack.git",
   "author": "akterstack",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "upstack",
+    "upstack-*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.1.4"
+  }
 }
