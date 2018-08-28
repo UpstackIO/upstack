@@ -1,7 +1,12 @@
 {
-  "name": "@upstack/cli",
+  "name": "upstack-cli",
   "version": "0.2.0",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "53298117fd2613321d063505d2b783c62254f21f"
+  "bin": {
+    "upstack": "./index.js"
+  },
+  "private": false,
+  "author": "akterstack",
+  "description": "CLI for Upstack"
 }

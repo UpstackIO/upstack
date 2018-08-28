@@ -1,0 +1,9 @@
+{
+  "name": "upstack",
+  "version": "0.0.1",
+  "description": "Home of your apps",
+  "main": "index.js",
+  "author": "akterstack",
+  "license": "MIT",
+  "private": false
+}
