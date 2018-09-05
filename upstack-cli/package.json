@@ -18,6 +18,7 @@
     "figlet": "^1.2.0",
     "fs": "^0.0.1-security",
     "inquirer": "^6.2.0",
+    "mkdirp": "^0.5.1",
     "touch": "^3.1.0"
   }
 }
